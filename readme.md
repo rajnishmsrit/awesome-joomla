@@ -32,7 +32,6 @@ Aweseome Joomla! Guidelines:
   - Download Joomla! Stable
   - Upgrade Packages
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
-- [Unofficial - Joomla Core Files Mirror](https://mirror.myjoomla.io/) - The oldest, most complete, most respected mirror of all Joomla and Mambo versions ever compiled and maintained.
 
 ## Top Extensions
 
@@ -78,7 +77,6 @@ To browse the whole catalog of extensions, please, visit the extension directory
 - [JAB17 - Your Joomla dev-ops, ci & cd toolbox](https://www.youtube.com/watch?v=H5JgIQTLoO0&t=492s) - By Andy Gaskell. This talk will provide a gourmet buffet of information and ideas for dev-ops, continuous integration and continuous deployment.
 - [JD17UK - DevOps for Joomla](https://www.youtube.com/watch?v=w5ORPXt6W_o&feature=youtu.be) - By Andy Gaskell. The talk is about DevOps for Joomla, from a practical perspective.
 - [AndyGaskell/Joomla_Day_UK_2017](https://github.com/AndyGaskell/Joomla_Day_UK_2017) - Slides and examples from Joomla Day UK 2017
-- [DevOps with Lando and Docker](https://extly.tech/media/devops-with-lando-and-docker/index.html#/) - By Anibal Sanchez. Introduction to Lando and Docker, in a Joomla context.
 
 ### Extension Development
 
@@ -135,6 +133,7 @@ A handy reference for beginners.
 - [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
 - [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
 - [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
+- [Joomla overrides collection](https://web-eau.net/en/development/joomla-overrides) - 80+ free layout overrides for Joomla, ready to download and install in your template.
 
 ### Joomla 4 Resources
 
